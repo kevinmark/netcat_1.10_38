@@ -3,7 +3,7 @@
 modified netcat 1.10-38 from debian build
 http://packages.qa.debian.org/n/netcat.html
 
-edited netcat 1.10-38
+edited from netcat 1.10-38
 to the version could be cross compiled
 
 linux:
